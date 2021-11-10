@@ -2,6 +2,7 @@
 
 <div align="center">
  <h2> Welcome to my github!🥳😎 </h2>
+ ![img](https://user-images.githubusercontent.com/50475196/141212090-6bc8a69a-5b57-45f7-8455-ade31eff6f85.gif)
 <br/>
 <br/>
 
@@ -12,12 +13,16 @@
  ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
  ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+ 
  <br/>
 
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearyeon&show_icons=true&theme=radical)
+ 
+ <br/>
+ <br/>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearyeon&show_icons=true&theme=radical)
 
 </div>
