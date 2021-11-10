@@ -18,6 +18,6 @@
  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-</div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearyeon&show_icons=true&theme=radical)
+
+</div>
