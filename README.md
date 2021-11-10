@@ -2,7 +2,7 @@
 
 <div align="center">
  <h2> Welcome to my github!🥳😎 </h2>
- ![img](https://user-images.githubusercontent.com/50475196/141212090-6bc8a69a-5b57-45f7-8455-ade31eff6f85.gif)
+ ![profile](https://user-images.githubusercontent.com/50475196/141212281-13b58a3a-0961-4042-a433-cd08b5b26a7b.gif)
 <br/>
 <br/>
 
