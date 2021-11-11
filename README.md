@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:F08080&height=300&section=header&text=&fontSize=90)
-
 <div align="center">
  <h2> Welcome to my github!🥳😎 </h2>
  <img src="https://user-images.githubusercontent.com/50475196/141212281-13b58a3a-0961-4042-a433-cd08b5b26a7b.gif">
